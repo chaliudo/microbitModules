@@ -1,6 +1,6 @@
-# YB_Module-World
+# Centralized Modules for Micro:bit by Charles
 
-Extension for Yahboom YB_Module-World V1.0
+Merge all modules from different companies into one repository.
 
 ## License
 
@@ -10,3 +10,4 @@ MIT
 
 * for PXT/microbit
 (The metadata above is needed for package search.)
+
