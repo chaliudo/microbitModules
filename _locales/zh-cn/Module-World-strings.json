@@ -1,7 +1,7 @@
 {
 
-	"ModuleWorld_Digital|block": "魔块世界 数字类",
-	"{id:category}ModuleWorld_Digital": "魔块世界 数字类",
+	"ModuleWorld_Digital|block": "传感器 数字类",
+	"{id:category}ModuleWorld_Digital": "传感器 数字类",
 	"ModuleWorld_Digital.dht11value|block": "DHT11传感器的 %dht11type|值 连接至 %value_DNum",
     "ModuleWorld_Digital.Ultrasonic|block": "超声波|引脚 %value_DNum",
     "ModuleWorld_Digital.IR|block": "红外传感器|引脚 %value_DNum|返回 %value",
@@ -23,8 +23,8 @@
     "ModuleWorld_Digital.enButton.Realse|block": "松开",
     "ModuleWorld_Digital.Collision|block": "碰撞检测|引脚 %value_DNum|返回 %value",
 	
-	"ModuleWorld_Analog|block": "魔块世界 模拟类",
-	"{id:category}ModuleWorld_Analog": "魔块世界 观感类",
+	"ModuleWorld_Analog|block": "传感器 模拟类",
+	"{id:category}ModuleWorld_Analog": "传感器 观感类",
     "ModuleWorld_Analog.Potentiometer|block": "电位器|引脚 %value_ANum",
     "ModuleWorld_Analog.Rocker|block": "遥杆|引脚 %value_ANum|返回 %value",
     "ModuleWorld_Analog.enRocker.NoState|block": "无",
@@ -35,8 +35,8 @@
     "ModuleWorld_Analog.Sound|block": "声音传感器|引脚 %value_ANum",
     "ModuleWorld_Analog.Light|block": "光敏传感器|引脚 %value_ANum",
 	
-	"ModuleWorld_PWM|block": "魔块世界 PWM类",
-	"{id:category}ModuleWorld_PWM": "魔块世界 PWM类",
+	"ModuleWorld_PWM|block": "传感器 PWM类",
+	"{id:category}ModuleWorld_PWM": "传感器 PWM类",
     "ModuleWorld_PWM.RGB|block" : "RGB灯|(引脚P12P13P14)|红色 %value1|绿色 %value2|蓝色 %value3",
     "ModuleWorld_PWM.RGB2|block": "RGB灯|(引脚P12P13P14)|显示 %value",
     "ModuleWorld_PWM.VibrationMot|block": "震动马达|引脚 %value_DNum|速度 %speed",
