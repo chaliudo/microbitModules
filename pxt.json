@@ -1,7 +1,7 @@
 {
-    "name": "Module-World",
+    "name": "Microbit-Modules",
     "version": "0.0.1",
-    "description": "Extension for YahBoom YB_Module-World V0.0.1",
+    "description": "Extension for Micro:bit by Charles",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -11,8 +11,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh-cn/Module-World-strings.json",
-        "_locales/zh-tw/Module-World-strings.json"
+        "_locales/zh-cn/Microbit-Modules-strings.json",
+        "_locales/zh-tw/Microbit-Modules-strings.json"
     ],
     "testFiles": [
         "test.ts"
