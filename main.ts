@@ -67,7 +67,7 @@ namespace ModuleWorld_Digital {
         DHT11_temperature_F,
 
         //% block="humidity(0~100)" enumval=2
-        DHT11_humidity,
+        DHT11_humidity
     }
     export enum enButton {
         //% blockId="Press" block="Press"
