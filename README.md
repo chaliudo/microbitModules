@@ -2,7 +2,7 @@
 
 Merge all modules from different companies into one repository.
 
-This library is designed to drive Wukong expansion board , You can get Wukong board here.
+2025/11/1 - Merched the modules of Wukong for Wukong expansion board - [Wukong expansion board](https://www.seeedstudio.com/Wukong-Expansion-Board-p-2844.html)
 
 ## License
 
