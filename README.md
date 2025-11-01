@@ -2,6 +2,8 @@
 
 Merge all modules from different companies into one repository.
 
+This library is designed to drive Wukong expansion board , You can get Wukong board here.
+
 ## License
 
 MIT
