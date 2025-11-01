@@ -100,8 +100,8 @@
     "wuKong.setServoSpeed|block": "设置 连续转动 舵机 %servo 速度为 %speed\\%",
     "wuKong.stopAllMotor|block": "停止所有电机",
     "wuKong.stopMotor|block": "停止电机 %motor",
-    "wuKong|block": "悟空",
-    "{id:category}WuKong": "悟空",
+    "wuKong|block": "悟空模块",
+    "{id:category}WuKong": "悟空模块",
     "{id:subcategory}Mecanum": "麦克纳姆轮"
 
 }
