@@ -101,7 +101,8 @@
 	"{id:subcategory}Mecanum": "Mecanum",
 
 
-
+	"GHBit|block": "手柄遥控器",
+    "{id:category}GHBit": "手柄遥控器",
 	"GHBit.RGB_Program|block": "手柄七彩流水灯",
 	"GHBit.RGB_Program_Close|block": "关闭七彩灯",  
 	"GHBit.Min_Motor_Shake|block": "手柄遥控器|震动 %value",
