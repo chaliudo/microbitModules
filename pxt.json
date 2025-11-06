@@ -7,7 +7,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "neopixel": "github:lzty634158/pxt-neopixel"
+        "neopixel": "github:chaliudo/pxt-neopixel"
     },
     "files": [
         "README.md",
